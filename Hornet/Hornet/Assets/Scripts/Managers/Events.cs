@@ -9,4 +9,9 @@ public class Events
 
     //Phases
     public static string EndPhase = "EndPhase";
+
+    //Player Interaction
+    public static string EnableInteraction = "EnableInteraction";
+    public static string DisableInteraction = "DisableInteraction";
+    public static string SelectedUnit = "SelectedUnit";
 }
